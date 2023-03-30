@@ -1,0 +1,17 @@
+body{
+    background: url(7979544.jpg);
+    font-family: Arial;
+}
+.container{
+    width: 250px;
+    margin: 0 auto
+    
+}
+
+.ava{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover
+        
+}
